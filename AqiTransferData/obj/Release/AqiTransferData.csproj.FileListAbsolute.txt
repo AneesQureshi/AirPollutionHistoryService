@@ -17,3 +17,22 @@ D:\abhishek rai\AQI\window service\AqiTransferData\AqiTransferData\obj\Release\A
 D:\abhishek rai\AQI\window service\AqiTransferData\AqiTransferData\obj\Release\AqiTransferData.csproj.CoreCompileInputs.cache
 D:\abhishek rai\AQI\window service\AqiTransferData\AqiTransferData\obj\Release\AqiTransferData.exe
 D:\abhishek rai\AQI\window service\AqiTransferData\AqiTransferData\obj\Release\AqiTransferData.pdb
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\AqiTransferData.exe.config
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\AqiTransferData.exe
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\AqiTransferData.pdb
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\EntityFramework.dll
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\EntityFramework.SqlServer.dll
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\Google.Protobuf.dll
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\MySql.Data.dll
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\MySql.Data.Entity.EF6.dll
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\EntityFramework.xml
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\EntityFramework.SqlServer.xml
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\Google.Protobuf.xml
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\MySql.Data.xml
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\bin\Release\MySql.Data.Entity.EF6.xml
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\obj\Release\AqiTransferData.AqiWindowService.resources
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\obj\Release\AqiTransferData.ProjectInstaller.resources
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\obj\Release\AqiTransferData.csproj.GenerateResource.Cache
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\obj\Release\AqiTransferData.csproj.CoreCompileInputs.cache
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\obj\Release\AqiTransferData.exe
+D:\Anees_Office\AirPollution\HistoryWS\AqiTransferData\obj\Release\AqiTransferData.pdb

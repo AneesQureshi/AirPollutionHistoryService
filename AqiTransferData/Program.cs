@@ -38,7 +38,7 @@ namespace AqiTransferData
             try
             {
                 TransferData.MainActivity();
-                Scheduler schedule = new Scheduler();
+                 Scheduler schedule = new Scheduler();
                 schedule.ScheduleService();
             }
             catch (Exception ex)

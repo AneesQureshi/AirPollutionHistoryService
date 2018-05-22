@@ -15,5 +15,10 @@ namespace AqiTransferData
         {
             InitializeComponent();
         }
+
+        private void serviceProcessInstaller1_AfterInstall(object sender, InstallEventArgs e)
+        {
+
+        }
     }
 }
